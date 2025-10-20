@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/learn-kode-project/static/css/main.9d407c90.css",
-    "main.js": "/learn-kode-project/static/js/main.2298cb42.js",
+    "main.js": "/learn-kode-project/static/js/main.a8188110.js",
     "static/js/453.25ef60ff.chunk.js": "/learn-kode-project/static/js/453.25ef60ff.chunk.js",
     "index.html": "/learn-kode-project/index.html",
     "main.9d407c90.css.map": "/learn-kode-project/static/css/main.9d407c90.css.map",
-    "main.2298cb42.js.map": "/learn-kode-project/static/js/main.2298cb42.js.map",
+    "main.a8188110.js.map": "/learn-kode-project/static/js/main.a8188110.js.map",
     "453.25ef60ff.chunk.js.map": "/learn-kode-project/static/js/453.25ef60ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d407c90.css",
-    "static/js/main.2298cb42.js"
+    "static/js/main.a8188110.js"
   ]
 }
