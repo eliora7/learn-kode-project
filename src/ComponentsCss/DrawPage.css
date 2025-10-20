@@ -1,0 +1,55 @@
+.DrawPage {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.DrawPage canvas {
+  display: block;
+  border: 2px solid #333;
+  border-radius: 10px;
+  touch-action: none;
+  cursor: crosshair;
+  margin-top: 1vh;
+}
+
+.controls {
+  display: flex;
+  gap: 2vh;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 4vw 4vw;
+  border-radius: 10px;
+}
+
+.controls label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.controls button {
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: none;
+  background-color: #e59659;
+  color: white;
+  cursor: pointer;
+}
+
+.DrawPage #back-btn {
+    top: 95%;
+}
+
+.DrawPage #next-btn {
+    top: 87%;   
+}
+
+#title-draw {
+    width: 90vw;
+    font-size: 7vw;
+}

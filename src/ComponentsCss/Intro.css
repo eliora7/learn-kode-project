@@ -1,0 +1,34 @@
+#Intro {
+    background-color: aliceblue;
+    width: 100%;
+    height: 100vh; 
+    position: absolute;
+}
+
+#title-intro {
+    font-size: 15vmin;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#next-btn {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 4vw 10vw 4vw 10vw;
+    font-family: "assistant";
+    background-color: rgb(235, 149, 88);
+    border-radius: 20vw;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+    font-weight: bold;
+    font-size: 6vmin;
+}
+
+#next-btn:hover {
+    cursor: pointer;
+    background-color: rgb(204, 144, 89);
+}

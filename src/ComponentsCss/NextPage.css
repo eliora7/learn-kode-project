@@ -1,0 +1,34 @@
+#NextPage {
+    background-color: aliceblue;
+    width: 100%;
+    height: 100vh; 
+    position: absolute;
+}
+
+#title-next-page {
+    font-size: 15vmin;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#back-btn {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2vw 5vw 2vw 5vw;
+    font-family: "assistant";
+    background-color: rgb(182, 157, 139);
+    border-radius: 20vw;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+    font-weight: bold;
+    font-size: 4vmin;
+}
+
+#back-btn:hover {
+    cursor: pointer;
+    background-color: rgb(121, 110, 100);
+}
